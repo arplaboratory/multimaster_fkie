@@ -1,0 +1,5 @@
+sync_topics: ['/dragonfly_2/attach',
+  '/dragonfly_2/odom',
+  ]
+ignore_nodes: ['']
+ignore_services: ['']
