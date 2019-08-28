@@ -1,5 +1,6 @@
-sync_topics: ['/dragonfly_2/attach',
-  '/dragonfly_2/odom',
+sync_topics: ['/dragonfly_3/attach',
+  '/dragonfly_3/odom',
+  '/payload/cen_pl_cmd'
   ]
 ignore_nodes: ['']
 ignore_services: ['']
