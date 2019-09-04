@@ -1,0 +1,3 @@
+sync_topics: ['/dragonfly4/state_control/pos_cmd_flag']
+ignore_nodes: ['']
+ignore_services: ['']
