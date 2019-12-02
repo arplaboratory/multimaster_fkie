@@ -1,7 +1,7 @@
 sync_topics: ['/dragonfly6/attach',
   '/dragonfly6/odom',
-  '/dragonfly6/so3_cmd',
-  '/dragonfly6/so3_control/rbpl_so3_cmd',
+ # '/dragonfly6/so3_cmd',
+ # '/dragonfly6/so3_control/rbpl_so3_cmd',
   '/payload/cen_pl_cmd'
   ]
 ignore_nodes: ['']
