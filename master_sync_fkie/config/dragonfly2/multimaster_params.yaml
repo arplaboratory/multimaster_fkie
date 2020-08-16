@@ -1,6 +1,7 @@
 sync_topics: ['/dragonfly2/attach',
   '/dragonfly2/odom',
   '/dragonfly2/q_vec',
+  '/dragonfly2/quadrotor_ukf/control_odom',
   '/payload/cen_pl_cmd',
   '/dragonfly2/whycon/whycon_emergency',
   #'/dragonfly2/so3_cmd',
